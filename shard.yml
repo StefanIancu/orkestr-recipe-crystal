@@ -1,0 +1,8 @@
+name: recipe-crystal
+version: 0.1.0
+
+targets:
+  server:
+    main: src/server.cr
+
+crystal: ">= 1.10.0"
